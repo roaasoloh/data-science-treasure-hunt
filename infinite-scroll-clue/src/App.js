@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
-import { Card } from "@/components/ui/card";
+import { Card } from "./components/ui/Card";
+import React from "react";
 
 export default function InfiniteScrollPage() {
   const [posts, setPosts] = useState([]);
