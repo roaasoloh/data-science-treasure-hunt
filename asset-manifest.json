@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/data-science-treasure-hunt/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/data-science-treasure-hunt/static/js/main.14b62427.chunk.js",
-    "main.js.map": "/data-science-treasure-hunt/static/js/main.14b62427.chunk.js.map",
+    "main.js": "/data-science-treasure-hunt/static/js/main.c95fbfe7.chunk.js",
+    "main.js.map": "/data-science-treasure-hunt/static/js/main.c95fbfe7.chunk.js.map",
     "runtime~main.js": "/data-science-treasure-hunt/static/js/runtime~main.cef1e4bc.js",
     "runtime~main.js.map": "/data-science-treasure-hunt/static/js/runtime~main.cef1e4bc.js.map",
     "static/js/2.ae026ab9.chunk.js": "/data-science-treasure-hunt/static/js/2.ae026ab9.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.940f5f6f.chunk.js": "/data-science-treasure-hunt/static/js/3.940f5f6f.chunk.js",
     "static/js/3.940f5f6f.chunk.js.map": "/data-science-treasure-hunt/static/js/3.940f5f6f.chunk.js.map",
     "index.html": "/data-science-treasure-hunt/index.html",
-    "precache-manifest.d64efc8605a58092fe0626f4e8bfa472.js": "/data-science-treasure-hunt/precache-manifest.d64efc8605a58092fe0626f4e8bfa472.js",
+    "precache-manifest.1928c5565da382530dcbb293bd044e34.js": "/data-science-treasure-hunt/precache-manifest.1928c5565da382530dcbb293bd044e34.js",
     "service-worker.js": "/data-science-treasure-hunt/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/data-science-treasure-hunt/static/css/main.5ecd60fb.chunk.css.map"
   }

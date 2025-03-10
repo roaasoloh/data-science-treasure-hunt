@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/data-science-treasure-hunt/precache-manifest.d64efc8605a58092fe0626f4e8bfa472.js"
+  "/data-science-treasure-hunt/precache-manifest.1928c5565da382530dcbb293bd044e34.js"
 );
 
 self.addEventListener('message', (event) => {

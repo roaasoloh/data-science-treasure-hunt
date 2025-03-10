@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6c76f7f3cf968891b6ce705888f27068",
+    "revision": "5933740ba517344f2b12dc566f9027b6",
     "url": "/data-science-treasure-hunt/index.html"
   },
   {
-    "revision": "4c6061b8030e083bb02b",
+    "revision": "1237fda015147ab0f023",
     "url": "/data-science-treasure-hunt/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/data-science-treasure-hunt/static/js/3.940f5f6f.chunk.js"
   },
   {
-    "revision": "4c6061b8030e083bb02b",
-    "url": "/data-science-treasure-hunt/static/js/main.14b62427.chunk.js"
+    "revision": "1237fda015147ab0f023",
+    "url": "/data-science-treasure-hunt/static/js/main.c95fbfe7.chunk.js"
   },
   {
     "revision": "1ae4fb57009a59c17de3",
